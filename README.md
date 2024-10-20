@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Clarekoigi
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on Software Engineering
+- 💞️ I’m looking to collaborate on Data Science 
 - 📫 How to reach me on e-mail koigiclarembote@gmail.com
 - ⚡ Fun fact: I enjoy driving
 
